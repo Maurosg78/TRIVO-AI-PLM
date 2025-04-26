@@ -1,5 +1,5 @@
-name: PizzaAI Development Board
-description: Kanban board para el desarrollo de PizzaAI
+name: TRIVO-AI-PLM Development Board
+description: Kanban board para el desarrollo de TRIVO-AI-PLM
 
 columns:
   - name: Backlog
