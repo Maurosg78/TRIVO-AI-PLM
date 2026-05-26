@@ -22,7 +22,7 @@ python_files = ["test_*.py"]
 addopts = "-ra -q"
 
 [build-system]
-requires = ["setuptools>=42", "wheel"]
+requires = ["setuptools>=82.0.1", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.mypy]
